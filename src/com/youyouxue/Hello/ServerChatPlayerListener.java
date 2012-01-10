@@ -76,6 +76,13 @@ public class ServerChatPlayerListener extends PlayerListener {
 												p.sendMessage(RED + "[AP] " + WHITE + "Read more about it online today!");
 												chat.setCancelled(true);
 												log.info(p.getName() + " asked the [AP] bot: " + chat.getMessage());
+												} else {
+													if (message_lowercase.equals("?? index")) {
+													p.sendMessage(RED + "[AP] " + WHITE + "An index of commands can be found at:");
+													p.sendMessage(RED + "[AP] " + WHITE + "www.apmc.us/bot");
+													chat.setCancelled(true);
+													log.info(p.getName() + " asked the [AP] bot: " + chat.getMessage());
+												}
 											}
 										}
 									}
