@@ -1,0 +1,6 @@
+name: Hello
+main: com.youyouxue.Hello.Hello
+author: youyouxue
+version: 0.1
+description: Say Hello to the server!
+commands:
