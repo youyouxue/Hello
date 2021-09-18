@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-18T10:11:14.513Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="Px9U49kN85wszOlmz_Pg" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-18T17:09:45.209Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="qVrVeG5LHLWeeGufpif9" version="15.2.9" type="github">
   <diagram id="eCEPqgotwZQc1uM3H5h4" name="Merton">
-    <mxGraphModel dx="4724" dy="2200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="500" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1968" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="500" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1226,6 +1226,40 @@
             <Array as="points">
               <mxPoint x="6980" y="680" />
               <mxPoint x="7140" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c6sA7Jh5wgqjwu-trdgG-7" value="Lukas Ruediger" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10120" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c6sA7Jh5wgqjwu-trdgG-8" value="Nathaniel Duffy" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10280" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c6sA7Jh5wgqjwu-trdgG-9" value="Victoria &quot;Vicky&quot; Moon" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10120" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c6sA7Jh5wgqjwu-trdgG-10" value="Ellie Owen" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10280" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c6sA7Jh5wgqjwu-trdgG-11" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c6sA7Jh5wgqjwu-trdgG-9" target="c6sA7Jh5wgqjwu-trdgG-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10490" y="900" as="sourcePoint" />
+            <mxPoint x="10540" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c6sA7Jh5wgqjwu-trdgG-12" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10260" y="680" as="sourcePoint" />
+            <mxPoint x="10260" y="630.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c6sA7Jh5wgqjwu-trdgG-13" value="" style="endArrow=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="c6sA7Jh5wgqjwu-trdgG-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10180" y="700" as="sourcePoint" />
+            <mxPoint x="10350" y="680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="10180" y="680" />
+              <mxPoint x="10340" y="680" />
             </Array>
           </mxGeometry>
         </mxCell>
