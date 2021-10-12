@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-12T20:03:27.332Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="A-1EVj6tp733TnQXDtZS" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-12T20:05:16.609Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="2jqENIB1y2VgFnBHV1y8" version="15.4.1" type="github">
   <diagram id="eCEPqgotwZQc1uM3H5h4" name="Merton">
-    <mxGraphModel dx="949" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="15000" pageHeight="1000" background="none" math="0" shadow="0">
+    <mxGraphModel dx="557" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="15000" pageHeight="1000" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1755,6 +1755,21 @@
               <mxPoint x="5360" y="780" />
               <mxPoint x="7220" y="780" />
               <mxPoint x="7220" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_GNZLHsRWbsbWB1UAKoW-5" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GV1GWxp89_lenmdbuiy8-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10020" y="780" as="sourcePoint" />
+            <mxPoint x="12360" y="730" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="9140" y="730" />
+              <mxPoint x="9140" y="780" />
+              <mxPoint x="10260" y="780" />
+              <mxPoint x="10420" y="780" />
+              <mxPoint x="10480" y="780" />
+              <mxPoint x="12340" y="780" />
+              <mxPoint x="12340" y="730" />
             </Array>
           </mxGeometry>
         </mxCell>
