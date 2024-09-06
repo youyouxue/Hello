@@ -84,12 +84,6 @@
         <mxCell id="mrPIv1gvlzqNDjQNlq6r-30" value="&lt;b&gt;NEW COOK LINE&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="640" y="235" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mrPIv1gvlzqNDjQNlq6r-33" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star" parent="1" vertex="1">
-          <mxGeometry x="181" width="28" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mrPIv1gvlzqNDjQNlq6r-34" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;flipH=1;notch=0;" parent="1" vertex="1">
-          <mxGeometry x="220" y="15" width="210" height="15" as="geometry" />
-        </mxCell>
         <mxCell id="QAp4EA9SfzSvzh7ymkF2-1" value="30&quot;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="280" width="60" height="30" as="geometry" />
         </mxCell>
